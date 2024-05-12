@@ -1,7 +1,7 @@
 {
     "service_account_key_file": "key.json.example",
     "folder_id": "b",
-    "source_image_id": "c",
+    "source_image_family": "ubuntu-1604-lts",
     "disk_name": "d",
     "disk_size_gb": "10"
 }
