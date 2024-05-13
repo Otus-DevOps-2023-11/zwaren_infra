@@ -6,4 +6,4 @@ variables.json
 *.tfvars
 .terraform/
 terraform/terraform-provider
-main.tf.old
+old/
